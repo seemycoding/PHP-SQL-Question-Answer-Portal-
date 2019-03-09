@@ -1,2 +1,2 @@
-# PHP-SQL-Question-Answer-Portal-
-Portal for question and answer With Login and Registration features
+# PHP-SQL-Question-Answer-Portal
+-Website for question and answer With Login and Registration features
