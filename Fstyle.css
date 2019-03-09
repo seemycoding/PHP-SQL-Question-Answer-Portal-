@@ -1,0 +1,377 @@
+*{
+
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif ; 
+}
+
+.container{
+
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+h1
+{
+
+	margin-left: 50px;
+
+}
+
+h1 span
+{
+
+	color: #000000;
+}
+
+.title
+{
+	color: #FAFAFA;
+	padding: 20px;
+	background-color: #448AFF;
+	
+}
+
+.Branding
+{
+
+	text-align: center;
+	padding-top: 30px;
+	font-size: 20px;
+	text-decoration-style: normal;
+}
+
+.Box
+{
+	align-self: center;
+	margin-top: 300px;
+	margin-left: 400px;
+	margin-bottom: 20px;
+	width: 350px;
+	height: 400px;
+	box-shadow: 4px 8px 8px 8px rgba(0,0,0,0.2);
+	padding: 10px;
+	text-align: center;
+}
+
+.form
+{	
+
+	padding-top: 80px;
+	text-align: center;
+
+}
+
+.form input[type='text']
+{
+
+	width: 200px;
+	height: 30px;
+	border-radius: 4px;
+	border-style: none;
+	border: 1px solid 	#8b9dc3;
+	padding-left: 10px;
+	margin-bottom: 15px;
+}
+
+.form input[type='email']
+{
+
+	width: 200px;
+	height: 30px;
+	border-radius: 4px;
+	border-style: none;
+	border: 1px solid 	#8b9dc3;
+	padding-left: 10px;
+}
+
+.form input[type='password']
+{
+
+	width: 200px;
+	height: 30px;
+	border-radius: 4px;
+	border-style: none;
+	border: 1px solid 	#8b9dc3;
+	margin-top: 15px;
+	padding-left: 10px;
+}
+
+.form input[type='submit']
+{
+	color: #FAFAFA;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100px;
+    border-radius: 4pa x;
+	border-style: none;
+	border: 1px solid 	#8b9dc3;
+	margin-top: 20px;
+	background-color: #448AFF
+}
+
+a span
+{
+
+	color:#448AFF;
+}
+
+.Reg
+{
+
+	padding-top: 30px;
+	text-align: center;
+}
+
+a
+{
+
+	color: #000;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.Nav
+{
+	padding: 25px;
+}
+
+.Nav input[type='submit']
+{
+	color: #000000;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 120px;
+	margin-right: 40px;
+    border-radius: 4pa x;
+	border: 1px solid 	#8b9dc3;
+	float: right;
+	background-color: #FAFAFA;
+	border-radius: 4px;
+	margin-top: 25px;
+
+}
+
+.titlee
+{
+	color: #FAFAFA;
+	background-color: #448AFF;
+	
+}
+
+.head
+{
+
+	margin-top: 3px;
+	padding-bottom: 5px;
+}
+
+h4
+{
+
+	margin-left: 50px;
+	color: #000000;
+
+}
+
+h4 span
+{
+
+	color: #FAFAFA;
+}
+
+.Well
+{
+
+width: 800px;
+margin-bottom: 7px;
+background-color: #F5F5F5;
+color: #212121;
+height: auto;
+max-height: 150px;
+margin-left: 100px;
+}
+
+
+.CommentSection h5
+{
+
+
+width: 200px;
+height: auto;	
+padding: 8px;
+margin-top: 10px;
+background-color: #FAFAFA;
+color: #212121;
+max-height: 150px;
+margin-left: 60px;
+box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.2);
+border-radius: 10px;
+
+}
+.Comment
+{
+
+	width: 760px;
+	height: auto;
+	background-color:#EEEEEE;
+	padding: 20px;
+	margin-left: 100px;
+}
+
+.date
+{
+
+	margin-left: 20px;
+}
+
+.SendComment input[type="text"]
+{
+
+	padding: 5px;
+	width: 700px;
+	color: #000000;
+
+}
+
+.SendComment input[type="submit"]
+
+{
+
+	width: 70px;
+	padding: 5px;
+	border: 1.5px solid #8b9dc3;
+	background-color: #FAFAFA
+}
+
+.SendComment
+{
+
+width: 790px;
+margin-bottom: 200px;
+padding: 5px;
+background-color: #F5F5F5;
+color: #212121;
+height: auto;
+max-height: 150px;
+margin-left: 100px;
+border-radius: 5px;
+box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+.Well h2
+{
+
+		padding-top: 15px;
+		margin-left: 15px;
+}
+
+.Well p
+{
+margin-top: 15px;
+margin-left: 15px;
+}
+
+.Well h5
+{
+
+	margin-top: 6px;
+	margin-left: 15px;
+
+}
+
+.Well h4
+{
+
+	margin-top: 30px;
+	margin-left: 15px;
+}
+
+label
+{
+
+	margin-left: 250px;
+}
+button{
+
+	margin-left: 260px;
+	padding: 7px;
+	background-color: #eeeeee;
+	color: #000000;
+	border: none;
+	font-weight: bold;
+
+}
+
+
+.username h4
+{
+
+	margin-left: 10px;
+	display: inline;
+
+	
+
+
+}
+
+.material-icons
+{
+
+	margin-left: 20px;
+	font-size: 24px;
+	color:#448AFF;
+	
+	
+
+}
+.username
+{
+	margin-top: 20px;
+	width: 200px;
+
+	height: 200px; 
+	background-color: #F5F5F5;
+	margin-left: 30px;
+
+}
+
+img
+{
+
+	width: 20%;
+	height: 20%;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-radius: 20px;
+}
+
+section
+{
+
+	margin-top: -200px;
+}
+
+.prof
+{
+
+	margin-left: -2px;
+	margin-top: -15px;
+}
+
+.prof h4
+{
+
+	margin-top: -10px;
+}
+
+a:hover
+{
+
+	background-color: #eeeeee;
+	padding: 6px;	
+}
+
+
+
